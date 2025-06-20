@@ -25,3 +25,6 @@ Projeye ait kodlar, veri dosyaları ve arayüz bileşenleri, geliştirme süreci
 - Açık kaynak olarak paylaşılabilir, sosyal fayda sağlayacak bir temel sistem geliştirmek
 
 -- Proje henüz geliştirme aşamasındadır. İlerleme güncellemeleri bu repo üzerinden paylaşılacaktır.
+#BilisimVadisi2025  
+#TürkiyeAçıkKaynakPlatformu  
+#YBK
